@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title>home page </title>
+</HEAD>
+<BODY>
+<ALING="left">menu</aling>
+<center> <h2>ROYAL
+<br>ORCHID
+<br>RESORT</H2></center>
+<aling="right">BOOK NOW</ALING>
+<hr size="5"noshade>
+<TH>
+<TR>
+<TD>
+OVERVIEW 
+ROOMS 
+OFFERS
+ DINNING BANQUETS AMENTIES
+</td>
+</tr>
+</th>
